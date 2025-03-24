@@ -1,9 +1,20 @@
 # Hello, I'm Gourav
 <a href="https://www.linkedin.com/in/gourav-kumar-438670291/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Professional Statements
+<a href="https://www.youtube.com/@spidergk108"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
-I am Gourav Kumar, a cybersecurity enthusiast specializing in penetration testing, bug bounty hunting, and ethical hacking. With hands-on experience using tools like Burp Suite, Nmap, ZAP, and Metasploit, I excel in identifying and mitigating security vulnerabilities. I actively participate in bug bounty programs on platforms such as HackerOne and Bugcrowd, continuously enhancing my skills through practical challenges on TryHackMe and Hack The Box. Currently pursuing a B.Tech in Computer Science and Engineering at Dr. M.G.R. Educational and Research Institute, I am also engaged in an AI-based hand gesture recognition project integrated with virtual reality. My passion lies in securing applications and systems through a structured approach to vulnerability assessment and secure software development practices.
+
+## Professional Statements 
+
+I am Gourav Kumar, a cybersecurity enthusiast with a strong passion for penetration testing, bug bounty hunting, and ethical hacking. I possess hands-on experience with industry-standard tools such as Burp Suite, Nmap, ZAP, Metasploit, and other security frameworks, enabling me to identify, analyze, and mitigate a wide range of security vulnerabilities. I actively participate in bug bounty programs on platforms like HackerOne and Bugcrowd, where I have gained practical knowledge by identifying and reporting critical security flaws.  
+
+To continuously sharpen my skills, I engage in solving real-world cybersecurity challenges on platforms such as TryHackMe and Hack The Box, focusing on web application security, privilege escalation, network penetration, and exploitation techniques. I also have a solid foundation in Security Operations Center (SOC) processes, giving me an understanding of incident monitoring, log analysis, and threat detection, making me well-prepared for entry-level SOC roles.  
+
+Currently, I am pursuing a **B.Tech in Computer Science and Engineering** at **Dr. M.G.R. Educational and Research Institute** and simultaneously advancing my cybersecurity knowledge by undertaking specialized training with **Intellipaat in collaboration with IIT Guwahati**. This course has equipped me with a comprehensive understanding of cybersecurity concepts, security frameworks, and hands-on approaches to vulnerability assessments and secure software development practices.  
+
+Additionally, I am working on a **major project titled 'AI-Based Hand Gesture Recognition with Virtual Reality'**, which leverages computer vision and deep learning techniques to replace traditional mouse inputs with hand gestures in VR environments. This project reflects my interest in integrating AI with emerging technologies to develop innovative and secure solutions.  
+
+With a strong focus on secure software development and a deep understanding of cybersecurity principles, I am eager to apply my skills to safeguard applications and infrastructure against evolving cyber threats.
 
 
 
