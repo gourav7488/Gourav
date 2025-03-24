@@ -1,7 +1,10 @@
 # Hello, I'm Gourav
 <a href="https://www.linkedin.com/in/gourav-kumar-438670291/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+**Brief Introduction for Portfolio:**  
+
+I am Gourav Kumar, a cybersecurity enthusiast specializing in penetration testing, bug bounty hunting, and ethical hacking. With hands-on experience using tools like Burp Suite, Nmap, ZAP, and Metasploit, I excel in identifying and mitigating security vulnerabilities. I actively participate in bug bounty programs on platforms such as HackerOne and Bugcrowd, continuously enhancing my skills through practical challenges on TryHackMe and Hack The Box. Currently pursuing a B.Tech in Computer Science and Engineering at Dr. M.G.R. Educational and Research Institute, I am also engaged in an AI-based hand gesture recognition project integrated with virtual reality. My passion lies in securing applications and systems through a structured approach to vulnerability assessment and secure software development practices.
+
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
