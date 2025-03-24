@@ -20,9 +20,7 @@ With a strong focus on secure software development and a deep understanding of c
 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To leverage my expertise in penetration testing, bug bounty hunting, and cybersecurity to identify and mitigate security vulnerabilities in web applications and networks. I aim to apply my knowledge of security frameworks, SOC processes, and secure software development to safeguard systems against evolving cyber threats. Additionally, I am eager to continue enhancing my skills by exploring innovative technologies such as AI and virtual reality to develop advanced cybersecurity solutions.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
