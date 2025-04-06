@@ -98,11 +98,8 @@ These are the tools I regularly use for cybersecurity testing, bug hunting, and 
 - `Metasploitable 2` – Intentionally vulnerable VM for practicing exploitation techniques  
 - `Markdown` – Clean and structured documentation  
 - `Google Workspace` – Docs, Sheets, Slides for reporting and collaboration  
-- `TryHackMe`(https://tryhackme.com/p/spidergk), `Pico CTF` – Platforms for hands-on labs and CTF challenges  
+- `TryHackMe`, `Pico CTF` – Platforms for hands-on labs and CTF challenges  
 
-
-  
-- Used **Ghidra** and **IDA** for reverse engineering binary executables to analyze malware behavior and uncover vulnerabilities in compiled applications.
 
 ### Network
 <div>
