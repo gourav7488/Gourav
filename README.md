@@ -34,6 +34,19 @@ To leverage my expertise in penetration testing, bug bounty hunting, and cyberse
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+
+### Skills  
+| Projects | Skills/Knowledge Gained | 
+| :--- |:---:|
+| [1]() - Conduct a security audit | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
+| [2]() - Network Security | `TCP/IP model`,  `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` | 
+| [3]() - Linux & SQL | `Command-line Interface`, `SQL`, `Linux`, `Bash` | 
+| [4]() - Assets, Threats, & Vulnerabilities | `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`|
+| [5]() - Detection & Response | `Incident Lifecycle`, `Incident Journal` |
+| [6]() - Tcpdump & Wireshark | `Packet Analyzer` | 
+| [7]() - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
+| [8]() - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
+
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
