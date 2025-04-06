@@ -47,8 +47,62 @@ To leverage my expertise in penetration testing, bug bounty hunting, and cyberse
 | [7]() - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
 | [8]() - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+## 🛠️ Tools I Use
+
+These are the tools I regularly use for cybersecurity testing, bug hunting, and threat analysis:
+
+### 🔍 Reconnaissance & Scanning
+- `Nmap` – Network scanning and host discovery  
+- `Nikto` – Web server scanner  
+- `Dirb / Dirbuster` – Directory brute-forcing  
+- `Katana` – Web crawling and endpoint discovery
+
+### 🌐 Web Application Testing
+- `Burp Suite` – Intercept, modify, and analyze HTTP/S traffic; used for identifying and exploiting web vulnerabilities.
+- `OWASP ZAP` – Automated scanner for detecting security flaws in web applications; good for both active and passive scanning.
+- `SQL` – Used for SQL Injection testing and manual database interaction during exploitation.
+- `Hydra` – Brute-force login credentials on forms, HTTP Basic Auth, and other login endpoints.
+- `Postman` – API testing tool used to manually send requests and inspect responses; useful in testing REST APIs.
+- `Ffuf` – Fast web fuzzer for directory and file brute-forcing.
+- `Wfuzz` – Flexible web application fuzzer for testing parameters, authentication, and injection points.
+- `Dirb / Dirbuster` – Directory brute-force tools for finding hidden files and paths in web servers.
+- `Nikto` – Web server scanner for detecting outdated software, vulnerabilities, and misconfigurations.
+- `Curl / HTTPie` – Command-line tools to test and interact with web services quickly.
+- `XSS Hunter` – Tool for finding and exploiting Cross-Site Scripting (XSS) vulnerabilities.
+- `Sublist3r` – Subdomain enumeration tool often used in recon phases of web app testing.
+
+### 🧠 Scripting & Automation
+- `Python` – Automation, parsers, custom exploits  
+- `Bash` – Shell scripting
+
+### 📊 Network & Traffic Analysis
+- `Wireshark` – Network protocol analyzer  
+- `Tcpdump` – CLI packet capture tool  
+- `Netcat` – Manual connections and reverse shells
+
+### 🔒 Exploitation & Cracking
+- `Metasploitable 2` – Exploitation practice machine  
+- `John the Ripper` – Password cracking  
+- `Hydra` – Credential attacks
+
+### 📈 SIEM & Detection
+- `Splunk` – Log aggregation and analysis  
+- `Chronicle` – Google Cloud threat detection  
+- `Suricata` – Network-based threat detection
+
+### 🧰 General Tools
+- `Kali Linux`, `Parrot OS`, `Ubuntu` – Primary OS for penetration testing and development  
+- `Windows 11`, `Windows 10`, `Windows 7` – Used for reverse engineering, malware analysis, and testing environments  
+- `Windows Server` – For Active Directory and network security testing  
+- `Metasploitable 2` – Intentionally vulnerable VM for practicing exploitation techniques  
+- `Markdown` – Clean and structured documentation  
+- `Google Workspace` – Docs, Sheets, Slides for reporting and collaboration  
+- `TryHackMe`(https://tryhackme.com/p/spidergk), `Pico CTF` – Platforms for hands-on labs and CTF challenges  
+
+
+  
+- Used **Ghidra** and **IDA** for reverse engineering binary executables to analyze malware behavior and uncover vulnerabilities in compiled applications.
 
 ### Network
 <div>
