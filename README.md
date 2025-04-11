@@ -22,18 +22,6 @@ With a strong focus on secure software development and a deep understanding of c
 ## Objective
 To leverage my expertise in penetration testing, bug bounty hunting, and cybersecurity to identify and mitigate security vulnerabilities in web applications and networks. I aim to apply my knowledge of security frameworks, SOC processes, and secure software development to safeguard systems against evolving cyber threats. Additionally, I am eager to continue enhancing my skills by exploring innovative technologies such as AI and virtual reality to develop advanced cybersecurity solutions.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
 
 ### Skills  
 | Projects | Skills/Knowledge Gained | 
