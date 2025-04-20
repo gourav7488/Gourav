@@ -26,14 +26,14 @@ To leverage my expertise in penetration testing, bug bounty hunting, and cyberse
 ### Skills  
 | Projects | Skills/Knowledge Gained | 
 | :--- |:---:|
-| [1](https://github.com/gourav7488/Gourav/blob/main/Conduct%20a%20security%20audit) - Conduct a security audit | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
-| [2]() - Network Security | `TCP/IP model`,  `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` | 
-| [3]() - Linux & SQL | `Command-line Interface`, `SQL`, `Linux`, `Bash` | 
-| [4]() - Assets, Threats, & Vulnerabilities | `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`|
-| [5]() - Detection & Response | `Incident Lifecycle`, `Incident Journal` |
-| [6]() - Tcpdump & Wireshark | `Packet Analyzer` | 
-| [7]() - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
-| [8]() - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
+| Conduct a security audit | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
+| [Network Security]() | `TCP/IP model`,  `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` | 
+| Linux & SQL | `Command-line Interface`, `SQL`, `Linux`, `Bash` | 
+| Assets, Threats, & Vulnerabilities | `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`|
+| Detection & Response | `Incident Lifecycle`, `Incident Journal` |
+| [Tcpdump & Wireshark](https://github.com/gourav7488/Gourav/tree/main/Tcpdump%20%26%20Wireshark) | `Packet Analyzer` | 
+| IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
+| Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
 
 
 ## 🛠️ Tools I Use
