@@ -32,8 +32,8 @@ To leverage my expertise in penetration testing, bug bounty hunting, and cyberse
 | Assets, Threats, & Vulnerabilities | `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`|
 | Detection & Response | `Incident Lifecycle`, `Incident Journal` |
 | [Tcpdump & Wireshark](https://github.com/gourav7488/Gourav/tree/main/Tcpdump%20%26%20Wireshark) | `Packet Analyzer` | 
-| IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
-| Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
+| IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Splunk` |
+| Automation with Python | `Computer Programming`, `Python Programming`, `Coding`| 
 
 
 ## 🛠️ Tools I Use
