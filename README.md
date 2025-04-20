@@ -76,8 +76,6 @@ These are the tools I regularly use for cybersecurity testing, bug hunting, and 
 
 ### 📈 SIEM & Detection
 - `Splunk` – Log aggregation and analysis  
-- `Chronicle` – Google Cloud threat detection  
-- `Suricata` – Network-based threat detection
 
 ### 🧰 General Tools
 - `Kali Linux`, `Parrot OS`, `Ubuntu` – Primary OS for penetration testing and development  
