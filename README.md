@@ -109,6 +109,8 @@ These are the tools I regularly use for cybersecurity testing, bug hunting, and 
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+[![IIT Roorkee Certification](https://img.shields.io/badge/IIT%20Roorkee%20-%20Cyber%20Security%20%26%20Ethical%20Hacking-0072C6?style=for-the-badge&logo=Google%20Scholar&logoColor=white)](https://tih.iitr.ac.in/certificate/intellipaat/IPTIH2504222.jpg)
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
