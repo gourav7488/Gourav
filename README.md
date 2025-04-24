@@ -26,7 +26,7 @@ To leverage my expertise in penetration testing, bug bounty hunting, and cyberse
 ### Skills  
 | Projects | Skills/Knowledge Gained | 
 | :--- |:---:|
-| Conduct a security audit | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
+| [Conduct a security audit](https://github.com/gourav7488/Gourav/blob/main/Conduct%20an%20Audit/Conduct%20a%20security%20audit.md) | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
 | [Network Security]() | `TCP/IP model`,  `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` | 
 | Linux & SQL | `Command-line Interface`, `SQL`, `Linux`, `Bash` | 
 | Assets, Threats, & Vulnerabilities | `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`|
