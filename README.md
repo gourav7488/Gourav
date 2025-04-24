@@ -111,6 +111,9 @@ These are the tools I regularly use for cybersecurity testing, bug hunting, and 
 
 [![IIT Roorkee Certification](https://img.shields.io/badge/IIT%20Roorkee%20-%20Cyber%20Security%20%26%20Ethical%20Hacking-0072C6?style=for-the-badge&logo=Google%20Scholar&logoColor=white)](https://tih.iitr.ac.in/certificate/intellipaat/IPTIH2504222.jpg)
 
+[![TryHackMe - Intro to Cyber Security](https://img.shields.io/badge/TryHackMe%20-%20Intro%20to%20Cyber%20Security-00AF9C?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1OFMTHPDIE.pdf)
+
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
