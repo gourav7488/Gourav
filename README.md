@@ -32,7 +32,7 @@ To leverage my expertise in penetration testing, bug bounty hunting, and cyberse
 | [Assets, Threats, & Vulnerabilities](https://github.com/gourav7488/Gourav/tree/main/Assets%2C%20Threats%2C%20%26%20Vulnerabilities%20) | `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`|
 | [Detection & Response](https://github.com/gourav7488/Gourav/tree/main/Detection%20&%20Response%20) | `Incident Lifecycle`, `Incident Journal` |
 | [Tcpdump & Wireshark](https://github.com/gourav7488/Gourav/tree/main/Tcpdump%20%26%20Wireshark) | `Packet Analyzer` | 
-| IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Splunk` |
+| [IDS & SIEM](https://github.com/gourav7488/Gourav/tree/main/IDS%20&%20SIEM) | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Splunk` |
 | Automation with Python | `Computer Programming`, `Python Programming`, `Coding`| 
 
 
