@@ -5,8 +5,9 @@
   <img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 <a href="https://x.com/spider_gok">
-  <img src="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=x&logoColor=000000" alt="X" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
+
 
 
 
