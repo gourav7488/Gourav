@@ -131,6 +131,5 @@ These are the tools I regularly use for cybersecurity testing, bug hunting, and 
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-[## Projects](https://github.com/gourav7488/Gourav/tree/main/Project%20)
-- Detection Lab
-- SOC Automation Project
+## Projects
+- [Click here->](https://github.com/gourav7488/Gourav/tree/main/Project%20)
