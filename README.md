@@ -34,7 +34,7 @@ To leverage my expertise in penetration testing, bug bounty hunting, and cyberse
 | [Tcpdump & Wireshark](https://github.com/gourav7488/Gourav/tree/main/Tcpdump%20%26%20Wireshark) | `Packet Analyzer` | 
 | [IDS & SIEM](https://github.com/gourav7488/Gourav/tree/main/IDS%20&%20SIEM) | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Splunk` |
 | [Automation with Python](https://github.com/gourav7488/Gourav/tree/main/Automation%20with%20Python) | `Computer Programming`, `Python Programming`, `Coding`| 
-
+| OWASP Top 10 Vulnerabilities | `Broken Access Control`, `Cryptographic Failures`, `Injection`, `Insecure Design`, `Security Misconfiguration`, `Vulnerable and Outdated Components`, `Identification and Authentication Failures`, `Software and Data Integrity Failures`, `Security Logging and Monitoring Failures`, `Server-Side Request Forgery (SSRF)` |
 
 ## 🛠️ Tools I Use
 
