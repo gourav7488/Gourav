@@ -1,4 +1,4 @@
-##CIA Triad
+# CIA Triad in Cybersecurity
 ![58a85d2e5942ebf3e78eb01c82f563be](https://github.com/user-attachments/assets/e69ce957-2011-4723-b540-7903f1dbe7e7)
 
 CIA Stands for Confidentiality , Integrity and Availability
@@ -8,3 +8,20 @@ Before we can describe something as secure, we need to consider better what make
 Confidentiality ensures that only the intended persons or recipients can access the data.
 Integrity aims to ensure that the data cannot be altered; moreover, we can detect any alteration if it occurs.
 Availability aims to ensure that the system or service is available when needed.
+
+
+The **CIA Triad** is a foundational model in cybersecurity that represents the three core principles essential to securing information and systems:
+
+## 1. Confidentiality
+Confidentiality ensures that only authorized individuals or systems can access sensitive data. This principle protects information from unauthorized access and disclosure.
+
+## 2. Integrity
+Integrity guarantees that data remains accurate and unaltered. It also includes mechanisms to detect any unauthorized changes, ensuring the trustworthiness of the information.
+
+## 3. Availability
+Availability ensures that information, systems, and services are accessible and operational when needed. It focuses on maintaining uptime and minimizing disruptions to authorized users.
+
+---
+
+These three principles work together to form the cornerstone of effective information security strategies.
+
