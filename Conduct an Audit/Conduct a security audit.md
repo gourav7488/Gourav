@@ -25,7 +25,7 @@ Availability ensures that information, systems, and services are accessible and 
 
 These three principles work together to form the cornerstone of effective information security strategies.
 
-## Beyond CIA we have to study to more things Belongs to security Piller
+## Beyond CIA we have to study two more things Belongs to security Piller
 
 ![image](https://github.com/user-attachments/assets/1dafb0ec-3287-4d2c-8b05-7c50f81d7c33)
 
@@ -35,3 +35,5 @@ Going one more step beyond the CIA security triad, we can think of:
 Authentic means not fraudulent or counterfeit. Authenticity is about ensuring that the document/file/data is from the claimed source.
 ## 2.Nonrepudiation: 
 Repudiate means refusing to recognize the validity of something. Nonrepudiation ensures that the original source cannot deny that they are the source of a particular document/file/data. This characteristic is indispensable for various domains, such as shopping, patient diagnosis, and banking.
+
+
