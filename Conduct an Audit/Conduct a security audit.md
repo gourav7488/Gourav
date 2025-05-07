@@ -36,4 +36,26 @@ Authentic means not fraudulent or counterfeit. Authenticity is about ensuring th
 ## 2.Nonrepudiation: 
 Repudiate means refusing to recognize the validity of something. Nonrepudiation ensures that the original source cannot deny that they are the source of a particular document/file/data. This characteristic is indispensable for various domains, such as shopping, patient diagnosis, and banking.
 
+## Governance Risk and Compliance (GRC)
+Information security governance and compliance are necessary to maintain any organisation's overall security posture. But how to achieve it? Here comes the role of the Governance and Risk Compliance (GRC) framework. It focuses on steering the organisation's overall governance, enterprise risk management, and compliance in an integrated manner. 
+
+GRC framework has the following three components:
+## 1.Governance Component:
+It is the rules, processes and policies to steer the organisation.
+## 2.Risk Management Component
+Risk refers to day-to-day technical processes to mitigate the risk.
+## 3.Compliance Component
+Steps taken to meet standards and run legally.
+
+![compliance-grc_framework-f](https://github.com/user-attachments/assets/4f1ad38d-5ec6-471f-9abb-e255504f7b17)
+
+
+## An Example - GRC Framework in Financial Sector
+To fully understand each component of GRC, it is necessary to understand it with real-world examples and scenarios. In the ensuing section, we will see how the financial industry implements each component of the GRC framework:
+
+## >Governance-Related Activities: Nominate the governance level executives, and make financial-related policies such as bank secrecy act, anti-money laundering policy, financial audit policies, financial reporting, crisis management, and many more.
+
+## >Risk Management Activities: Identify potential risks, their possible outcomes, and countermeasures such as financial fraud risks, fraudulent transactions through cyber-attack, stolen credentials through phishing, fake ATM cards, etc.
+
+## >Compliance Activities: Take measures to meet legal requirements and industry standards such as PCI DSS, GLBA, etc. Moreover, this also includes implementing correct methods like SSL/ TLS to avoid Man in the Middle (MITM) attacks, ensuring automatic patch management against unpatched software, creating awareness campaigns for users to protect them from phishing attacks, and many more.
 
