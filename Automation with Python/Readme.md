@@ -82,7 +82,7 @@ Boolean operators are used to connect and compare relationships between statemen
 </pre>
 
 **OUTPUT**
-`**a is either 1 or above 10**`
+`a is either 1 or above 10`
 
 <pre lang="md">name = "bob" <br>
  hungry = True <br>
@@ -94,4 +94,51 @@ Boolean operators are used to connect and compare relationships between statemen
       print("Not sure who this is or if they are hungry")</pre>
 
 **OUTPUT**
-`**bob is Hungry**`
+`bob is Hungry`
+
+# If Statements
+Using "if statements" allows programs to make decisions. They let a program chose a decision based on a condition. Below is an example of how an if statement can be used to determine the section of code (which print statement) to use.
+
+<pre lang="md">
+if age < 17:<br>
+    print('You are NOT old enough to drive')<br>
+else:<br>
+    print('You are old enough to drive')<br>
+</pre>
+
+# Loops
+
+In programming, loops allow programs to iterate and perform actions a number of times. There are two types of loops, for and while loops.
+
+**While Loops**<br>
+
+Let's begin by looking at how we structure a while loop. We can have the loop run indefinitely or (similar to an if statement) determine how many times the loop should run based on a condition.
+<pre lang="md">
+i = 1<br>
+while i <= 10:<br>
+     print(i)<br>
+     i = i + 1<br>
+</pre>
+
+**For Loops**<br>
+
+A for loop is used to iterate over a sequence such as a list. Lists are used to store multiple items in a single variable, and are created using square brackets  (see below). Let's learn through the following example:
+
+<pre lang="md">
+websites = ["facebook.com", "google.com", "amazon.com"]<br>
+for site in websites:<br>
+     print(site)
+</pre>
+
+# Functions
+ A function is a block of code that can be called at different places in your program.
+ You could have a function to work out a calculation such as the distance between two points on a map or output formatted text based on certain conditions. Having functions removes repetitive code, as the function's purpose can be used multiple times throughout a program.
+
+<pre lang="md">
+def sayHello(name):<br>
+     print("Hello " + name + "! Nice to meet you.")<br>
+
+sayHello("ben")
+</pre>
+
+**OUTPUT**: `Hello Ben! Nice to meet you`
