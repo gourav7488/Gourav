@@ -2,12 +2,12 @@
 ---
 Python is a high-level, interpreted programming language known for its clear syntax and readability. It supports multiple programming paradigms, including object-oriented, procedural, and functional programming. Python is widely used in web development, automation, data science, artificial intelligence, and cybersecurity due to its simplicity and large standard library.
 
-**1.Variable**
-**2.Loops**
-**3.Functions**
-**4.Data Strucures**
-**5.if statements**
-**6. Files**
+**1.Variable**<br>
+**2.Loops**<br>
+**3.Functions**<br>
+**4.Data Strucures**<br>
+**5.if statements**<br>
+**6. Files**<br>
 
 **Mathematical Operators**
 
@@ -49,9 +49,9 @@ age = age + 1<br>
 print(age)
 </pre>
 
-**DATA TYPE**
-**String** - Used for combinations of characters, such as letters or symbols
-**Integer** - Whole numbers
-**Float** - Numbers that contain decimal points or for fractions
-**Boolean** - Used for data that is restricted to True or False options
-**List** - Series of different data types stored in a collection
+**DATA TYPE**<br>
+**String** - Used for combinations of characters, such as letters or symbols<br>
+**Integer** - Whole numbers<br>
+**Float** - Numbers that contain decimal points or for fractions<br>
+**Boolean** - Used for data that is restricted to True or False options<br>
+**List** - Series of different data types stored in a collection<br>
