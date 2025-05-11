@@ -34,6 +34,8 @@ And now we can some basic mathematical operators, lets move on to comparision op
 | Less than or equal to      | `<=`   |
 
 
+# Variabls and Data Types
 
+Variables allow you to store and update data in a computer program. You have a variable name and store data to that name.
 
-
+<pre lang="md"> ```python food = "ice cream" money = 2000 print("I have", money, "to buy", food) ``` </pre>
