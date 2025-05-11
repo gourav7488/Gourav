@@ -38,8 +38,13 @@ And now we can some basic mathematical operators, lets move on to comparision op
 
 Variables allow you to store and update data in a computer program. You have a variable name and store data to that name.
 
-<pre lang="md"> food = "ice cream" <br>
-  money = 2000 
+<pre lang="md"> food = "ice cream"<br>
+money = 2000 
   </pre>
+In the example above, we have 2 variables. The variable name "food" stores the string (words) ice cream, while another variable called "money" stores a number (2000).
 
-
+One another example:
+<pre>age = 30<br>
+age = age + 1<br>
+print(age)
+</pre>
