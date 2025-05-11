@@ -84,8 +84,14 @@ Boolean operators are used to connect and compare relationships between statemen
 **OUTPUT**
 `**a is either 1 or above 10**`
 
-<pre lang="md">name = "bob" <br>hungry = True <br>if name == "bob" and hungry == True: <br> 
-   print("bob is hungry") <br>elif name == "bob" and not hungry: <br>    print("Bob is not hungry") <br>else: <br>    print("Not sure who this is or if they are hungry")</pre>
+<pre lang="md">name = "bob" <br>
+ hungry = True <br>
+ if name == "bob" and hungry == True: <br> 
+      print("bob is hungry") <br>
+ elif name == "bob" and not hungry: <br>
+      print("Bob is not hungry") <br>
+ else: <br>
+      print("Not sure who this is or if they are hungry")</pre>
 
 **OUTPUT**
 `**bob is Hungry**`
