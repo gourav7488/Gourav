@@ -74,3 +74,17 @@ Boolean operators are used to connect and compare relationships between statemen
 | Only one condition needs to be true          | `OR`     | `if x == 1 OR x == 10` → True if x is 1 or 10        |
 | Opposite of a condition                      | `NOT`    | `if NOT y` → True if `y` is False                    |
 
+**Examples:**__
+<pre lang="md">
+ a=1<br>
+ if a==1 or a>10:<br>
+     print("a is either 1 or above 10")
+</pre>
+
+**OUTPUT**
+`**a is either 1 or above 10**`
+
+<pre lang="md"> ```python name = "bob" hungry = True if name == "bob" and hungry == True: print("bob is hungry") elif name == "bob" and not hungry: print("Bob is not hungry") else: # If all other if conditions are not met print("Not sure who this is or if they are hungry") ``` </pre>
+
+**OUTPUT**
+`**bob is Hungry**`
