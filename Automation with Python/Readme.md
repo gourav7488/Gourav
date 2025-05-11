@@ -55,3 +55,22 @@ print(age)
 **Float** - Numbers that contain decimal points or for fractions<br>
 **Boolean** - Used for data that is restricted to True or False options<br>
 **List** - Series of different data types stored in a collection<br>
+
+# Logical and Boolean Operators
+Logical operators allow assignment and comparisons to be made and are used in conditional testing (such as if statements).
+| Logical Operation       | Operator | Example       |
+|-------------------------|----------|---------------|
+| Equivalence             | `==`     | `if x == 5`   |
+| Less than               | `<`      | `if x < 5`    |
+| Less than or equal to   | `<=`     | `if x <= 5`   |
+| Greater than            | `>`      | `if x > 5`    |
+| Greater than or equal to| `>=`     | `if x >= 5`   |
+
+Boolean operators are used to connect and compare relationships between statements. Like an if statement, conditions can be true or false.
+
+| Boolean Operation                             | Operator | Example                                             |
+|----------------------------------------------|----------|-----------------------------------------------------|
+| Both conditions must be true                 | `AND`    | `if x >= 5 AND x <= 100` → True if x is between 5 and 100 |
+| Only one condition needs to be true          | `OR`     | `if x == 1 OR x == 10` → True if x is 1 or 10        |
+| Opposite of a condition                      | `NOT`    | `if NOT y` → True if `y` is False                    |
+
