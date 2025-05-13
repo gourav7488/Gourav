@@ -1,10 +1,5 @@
 # Gourav-Cybersecurity-Portfolio 
 
-## 🧠 My TryHackMe Progress
-
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2455248)
-
-
 
 ## Professional Statements 
 
