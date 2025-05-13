@@ -84,40 +84,16 @@ These are the tools I regularly use for cybersecurity testing, bug hunting, and 
 - `TryHackMe`, `Pico CTF` – Platforms for hands-on labs and CTF challenges  
 
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-## SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
+## Projects
+- [Click here->](https://github.com/gourav7488/Gourav/tree/main/Project%20)
+- [Keylogger](https://github.com/gourav7488/Keylogger)
+- 
 ## Certifications
 
 [![IIT Roorkee Certification](https://img.shields.io/badge/IIT%20Roorkee%20-%20Cyber%20Security%20%26%20Ethical%20Hacking-0072C6?style=for-the-badge&logo=Google%20Scholar&logoColor=white)](https://tih.iitr.ac.in/certificate/intellipaat/IPTIH2504222.jpg)
 
 [![TryHackMe - Intro to Cyber Security](https://img.shields.io/badge/TryHackMe%20-%20Intro%20to%20Cyber%20Security-00AF9C?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1OFMTHPDIE.pdf)
-
-
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
 ## Stay Connected With Me:
 <a href="https://www.linkedin.com/in/gourav-kumar-438670291/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -129,7 +105,5 @@ These are the tools I regularly use for cybersecurity testing, bug hunting, and 
   <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 
-## Projects
-- [Click here->](https://github.com/gourav7488/Gourav/tree/main/Project%20)
 
 
