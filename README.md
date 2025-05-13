@@ -1,6 +1,11 @@
 # Gourav-Cybersecurity-Portfolio 
 
+## 🧠 My TryHackMe Progress
+
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/2455248.png)
+
+Track my learning journey in cybersecurity and penetration testing on [TryHackMe](https://tryhackme.com/p/2455248).
+
 
 
 ## Professional Statements 
