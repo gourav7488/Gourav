@@ -88,7 +88,8 @@ These are the tools I regularly use for cybersecurity testing, bug hunting, and 
 ## Projects
 - [Click here->](https://github.com/gourav7488/Gourav/tree/main/Project%20)
 - [Keylogger](https://github.com/gourav7488/Keylogger)
-- 
+- [Footprinting and Reconnaissance](https://github.com/gourav7488/Gourav/blob/main/Owasp%20Top%2010%20(2021)/Footprinting%20and%20Reconnaissance.pdf)
+
 ## Certifications
 
 [![IIT Roorkee Certification](https://img.shields.io/badge/IIT%20Roorkee%20-%20Cyber%20Security%20%26%20Ethical%20Hacking-0072C6?style=for-the-badge&logo=Google%20Scholar&logoColor=white)](https://tih.iitr.ac.in/certificate/intellipaat/IPTIH2504222.jpg)
