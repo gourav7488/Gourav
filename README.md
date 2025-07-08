@@ -96,6 +96,9 @@ These are the tools I regularly use for cybersecurity testing, bug hunting, and 
 
 [![TryHackMe - Intro to Cyber Security](https://img.shields.io/badge/TryHackMe%20-%20Intro%20to%20Cyber%20Security-00AF9C?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-1OFMTHPDIE.pdf)
 
+[![Deloitte - Virtual Experience Program](https://img.shields.io/badge/Deloitte%20-%20Virtual%20Experience%20Program-005B30?style=for-the-badge&logo=deloitte&logoColor=white)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_TJcZKhgMtbnoF6KSr_1751994527208_completion_certificate.pdf)
+
+
 ## Stay Connected With Me:
 <a href="https://www.linkedin.com/in/gourav-kumar-438670291/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/@spidergk108"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
