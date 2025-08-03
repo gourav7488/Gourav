@@ -33,6 +33,23 @@ To leverage my expertise in penetration testing, bug bounty hunting, and cyberse
 | [Automation with Python](https://github.com/gourav7488/Gourav/tree/main/Automation%20with%20Python) | `Computer Programming`, `Python Programming`, `Coding`| 
 | [OWASP Top 10 Vulnerabilities](https://github.com/gourav7488/Gourav/tree/main/Owasp%20Top%2010%20(2021)) | `Broken Access Control`, `Cryptographic Failures`, `Injection`, `Insecure Design`, `Security Misconfiguration`, `Vulnerable and Outdated Components`, `Identification and Authentication Failures`, `Software and Data Integrity Failures`, `Security Logging and Monitoring Failures`, `Server-Side Request Forgery (SSRF)` |
 
+## 🐞 Reported Vulnerabilities: Valid & Duplicates
+
+This section includes all security vulnerabilities I’ve reported during my bug bounty and penetration testing journey. It covers:
+
+- ✅ **Valid Reports**: Acknowledged by the organization, rewarded, triaged, or fixed.
+- 🔁 **Duplicate Reports**: Marked as duplicates, but independently discovered and valid.
+  
+Each entry reflects real-world impact, technical skills, and ethical reporting practices.
+
+| #  | Target        | Bug Type         | Status           | Report Link                         |
+|----|---------------|------------------|------------------|-------------------------------------|
+| 1  | Ericsson      | Open Redirect    | ✅ Hall of Fame   | [View](bugs/ericsson-open-redirect.md) |
+| 2  | Shopify       | IDOR             | 🔁 Duplicate      | [View](bugs/shopify-idor.md)        |
+| 3  | Tesla         | Stored XSS       | ✅ Triaged        | [View](bugs/tesla-xss.md)           |
+| 4  | SomeApp       | Misconfiguration | 🔁 Duplicate      | [View](bugs/someapp-misconfig.md)   |
+
+
 ## 🛠️ Tools I Use
 
 These are the tools I regularly use for cybersecurity testing, bug hunting, and threat analysis:
