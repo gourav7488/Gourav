@@ -44,10 +44,10 @@ Each entry reflects real-world impact, technical skills, and ethical reporting p
 
 | #  | Target        | Bug Type         | Status           | Report Link                         |
 |----|---------------|------------------|------------------|-------------------------------------|
-| 1  | Ericsson      | Open Redirect    | ✅ Hall of Fame   | [View](bugs/ericsson-open-redirect.md) |
-| 2  | Shopify       | IDOR             | 🔁 Duplicate      | [View](bugs/shopify-idor.md)        |
-| 3  | Tesla         | Stored XSS       | ✅ Triaged        | [View](bugs/tesla-xss.md)           |
-| 4  | SomeApp       | Misconfiguration | 🔁 Duplicate      | [View](bugs/someapp-misconfig.md)   |
+| 1  | Ericsson      | Open Redirect    | ✅ Hall of Fame   | [View](https://spidergk.medium.com/hall-of-fame-open-redirect-vulnerability-in-ericsson-job-portal-7f9a2e77bd77) |
+| 2  | YOTI       | Password Change Doesn’t Expire Sessions            | 🔁 Duplicate      | [View](https://medium.com/@spidergk/password-change-doesnt-expire-sessions-a-hidden-risk-in-session-management-701c884aa86c)        |
+| 3  | Epic Games         | Inconsistent Session Logout After Enabling 2FA      | 🔁 Duplicate       | [View](https://spidergk.medium.com/inconsistent-session-logout-after-enabling-2fa-on-epic-games-a-high-impact-flaw-explained-2a2ff36c3a3b)           |
+
 
 
 ## 🛠️ Tools I Use
