@@ -33,21 +33,6 @@ To leverage my expertise in penetration testing, bug bounty hunting, and cyberse
 | [Automation with Python](https://github.com/gourav7488/Gourav/tree/main/Automation%20with%20Python) | `Computer Programming`, `Python Programming`, `Coding`| 
 | [OWASP Top 10 Vulnerabilities](https://github.com/gourav7488/Gourav/tree/main/Owasp%20Top%2010%20(2021)) | `Broken Access Control`, `Cryptographic Failures`, `Injection`, `Insecure Design`, `Security Misconfiguration`, `Vulnerable and Outdated Components`, `Identification and Authentication Failures`, `Software and Data Integrity Failures`, `Security Logging and Monitoring Failures`, `Server-Side Request Forgery (SSRF)` |
 
-## 🐞 Reported Vulnerabilities: Valid & Duplicates
-
-This section includes all security vulnerabilities I’ve reported during my bug bounty and penetration testing journey. It covers:
-
-- ✅ **Valid Reports**: Acknowledged by the organization, rewarded, triaged, or fixed.
-- 🔁 **Duplicate Reports**: Marked as duplicates, but independently discovered and valid.
-  
-Each entry reflects real-world impact, technical skills, and ethical reporting practices.
-
-| #  | Target        | Bug Type         | Status           | Report Link                         |
-|----|---------------|------------------|------------------|-------------------------------------|
-| 1  | Ericsson      | Open Redirect    | ✅ Hall of Fame   | [View](https://spidergk.medium.com/hall-of-fame-open-redirect-vulnerability-in-ericsson-job-portal-7f9a2e77bd77) |
-| 2  | YOTI       | Password Change Doesn’t Expire Sessions            | 🔁 Duplicate      | [View](https://medium.com/@spidergk/password-change-doesnt-expire-sessions-a-hidden-risk-in-session-management-701c884aa86c)        |
-| 3  | Epic Games         | Inconsistent Session Logout After Enabling 2FA      | 🔁 Duplicate       | [View](https://spidergk.medium.com/inconsistent-session-logout-after-enabling-2fa-on-epic-games-a-high-impact-flaw-explained-2a2ff36c3a3b)           |
-
 
 
 ## 🛠️ Tools I Use
